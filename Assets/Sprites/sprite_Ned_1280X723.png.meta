@@ -1,0 +1,616 @@
+fileFormatVersion: 2
+guid: ef4ee0c843096e940a8e154be452314b
+timeCreated: 1539477458
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sprite_Ned_1280X720_0
+    21300002: sprite_Ned_1280X720_1
+    21300004: sprite_Ned_1280X720_2
+    21300006: sprite_Ned_1280X720_3
+    21300008: sprite_Ned_1280X720_4
+    21300010: sprite_Ned_1280X720_5
+    21300012: sprite_Ned_1280X720_6
+    21300014: sprite_Ned_1280X720_7
+    21300016: sprite_Ned_1280X720_8
+    21300018: sprite_Ned_1280X720_9
+    21300020: sprite_Ned_1280X720_10
+    21300022: sprite_Ned_1280X720_11
+    21300024: sprite_Ned_1280X720_12
+    21300026: sprite_Ned_1280X720_13
+    21300028: sprite_Ned_1280X720_14
+    21300030: sprite_Ned_1280X720_15
+    21300032: sprite_Ned_1280X720_16
+    21300034: sprite_Ned_1280X720_17
+    21300036: sprite_Ned_1280X720_18
+    21300038: sprite_Ned_1280X720_19
+    21300040: sprite_Ned_1280X720_20
+    21300042: sprite_Ned_1280X720_21
+    21300044: sprite_Ned_1280X720_22
+    21300046: sprite_Ned_1280X720_23
+    21300048: sprite_Ned_1280X720_24
+    21300050: sprite_Ned_1280X720_27
+    21300052: sprite_Ned_1280X720_28
+    21300054: sprite_Ned_1280X720_29
+    21300056: sprite_Ned_1280X720_30
+    21300058: sprite_Ned_1280X720_31
+    21300060: sprite_Ned_1280X720_32
+    21300062: sprite_Ned_1280X720_33
+    21300064: sprite_Ned_1280X720_34
+    21300066: sprite_Ned_1280X720_35
+    21300068: sprite_Ned_1280X720_36
+    21300070: sprite_Ned_1280X720_37
+    21300072: sprite_Ned_1280X720_38
+    21300074: sprite_Ned_1280X720_39
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite_Ned_1280X720_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 599
+        width: 36
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_Ned_1280X720_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 599
+        width: 36
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_Ned_1280X720_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 601
+        width: 45
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_Ned_1280X720_3
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 602
+        width: 33
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_Ned_1280X720_4
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 600
+        width: 33
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_Ned_1280X720_5
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 596
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_Ned_1280X720_6
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 595
+        width: 46
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_Ned_1280X720_7
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 593
+        width: 47
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_Ned_1280X720_8
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 595
+        width: 46
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_Ned_1280X720_9
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 482
+        width: 40
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_Ned_1280X720_10
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 481
+        width: 53
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_Ned_1280X720_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 478
+        width: 55
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_Ned_1280X720_12
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 481
+        width: 55
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_Ned_1280X720_13
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 480
+        width: 42
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_Ned_1280X720_14
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 481
+        width: 50
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_Ned_1280X720_15
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 481
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_Ned_1280X720_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 360
+        width: 36
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_Ned_1280X720_17
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 360
+        width: 38
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_Ned_1280X720_18
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 360
+        width: 39
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_Ned_1280X720_19
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 359
+        width: 36
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_Ned_1280X720_20
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 359
+        width: 38
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_Ned_1280X720_21
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 359
+        width: 39
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_Ned_1280X720_22
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 359
+        width: 37
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_Ned_1280X720_23
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 359
+        width: 39
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_Ned_1280X720_24
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 359
+        width: 39
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_Ned_1280X720_27
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 134
+        width: 30
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_Ned_1280X720_28
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 129
+        width: 65
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_Ned_1280X720_29
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 132
+        width: 30
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_Ned_1280X720_30
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 132
+        width: 30
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_Ned_1280X720_31
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 129
+        width: 30
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_Ned_1280X720_32
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 129
+        width: 30
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_Ned_1280X720_33
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 128
+        width: 30
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_Ned_1280X720_34
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 126
+        width: 30
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_Ned_1280X720_35
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 123
+        width: 30
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_Ned_1280X720_36
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 122
+        width: 30
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_Ned_1280X720_37
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 11
+        width: 30
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_Ned_1280X720_38
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 11
+        width: 30
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_Ned_1280X720_39
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 11
+        width: 30
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
